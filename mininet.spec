@@ -4,7 +4,7 @@
 Summary:       Virtual network emulator
 Name:          mininet
 Epoch:         1
-Version:       2.3.0d6
+Version:       2.3.0rc2
 Release:       1%{?dist}
 License:       Mininet %{version} License
 URL:           http://mininet.org/
